@@ -12,7 +12,7 @@
 
 > Built with Kiro AI IDE for Kiroween 2025 🎃
 
-A Next.js 14 web application for viewing, searching, and managing your AI conversation memories with a spooky Halloween theme.
+A Next.js 14 web application for viewing, searching, and managing your AI conversation memories.
 
 **🎁 Open Source & MIT Licensed** - Free to use, modify, and distribute for any purpose!
 
@@ -72,7 +72,6 @@ Explore the `.kiro/` folder for comprehensive development documentation:
 - **Pricing**: Multi-tier subscription plans
 - **Admin Panel**: User management and analytics
 - **Responsive Design**: Mobile-first approach
-- **Dark Mode**: Halloween-themed purple/orange design
 
 ## 🏗️ Tech Stack
 
