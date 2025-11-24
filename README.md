@@ -66,6 +66,8 @@ Explore the `.kiro/` folder for comprehensive development documentation:
 
 ## 🎯 Features
 
+Note : UI may get Updated desired for business Use Case
+
 ### Landing Page Sections
 
 - **Hero**: Eye-catching headline with floating brain animation and CTAs
