@@ -66,7 +66,7 @@ Explore the `.kiro/` folder for comprehensive development documentation:
 
 ## 🎯 Features
 
-Note : UI may get Updated desired for business Use Case
+Note : UI may get Updated desired for business Use Case & Content too.
 
 ### Landing Page Sections
 
