@@ -84,7 +84,6 @@ Note : UI may get Updated desired for business Use Case & Content too.
 - **Accessibility**: WCAG 2.1 AA compliant
 - **Performance**: 98+ Lighthouse score, 50KB gzipped bundle
 - **Type-Safe**: 100% TypeScript coverage
-- **Halloween Theme**: Purple/orange gradient design
 
 ## 🏗️ Tech Stack
 
@@ -195,7 +194,6 @@ NEXT_PUBLIC_BACKEND_URL=https://your-backend.onrender.com
 ### Tailwind Configuration
 
 The app uses a custom Tailwind theme with:
-- Purple/orange gradient (Halloween theme)
 - Dark mode by default
 - Custom animations
 - Responsive breakpoints
