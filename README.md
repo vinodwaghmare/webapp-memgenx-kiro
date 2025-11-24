@@ -94,6 +94,7 @@ Note : UI may get Updated desired for business Use Case & Content too.
 - **UI Components**: shadcn/ui
 - **Authentication**: Supabase Auth
 - **Database**: Supabase (PostgreSQL)
+- **Payments**: Stripe
 - **Deployment**: Vercel
 
 ## 📁 Project Structure
