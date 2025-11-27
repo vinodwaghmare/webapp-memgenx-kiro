@@ -361,9 +361,8 @@ This project demonstrates that **Kiro AI IDE is not just a code generator—it's
 
 ## 📞 Contact & Links
 
-- **Project Repository:** [GitHub URL]
-- **Live Demo:** [Vercel URL]
-- **Kiroween 2025:** Frankenstein Category
+- **Project Repository:**
+- **Live Demo:** https://memgen-x-webapp.vercel.app/
 - **Built with:** Kiro AI IDE
 
 ---
