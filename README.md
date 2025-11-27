@@ -409,6 +409,10 @@ Quick start:
 
 - **Documentation**: [Complete Documentation Index](./DOCUMENTATION_INDEX.md)
 - **Kiro AI IDE**: [kiro.ai](https://kiro.ai)
+- **Web app Repo** : https://github.com/vinodwaghmare/webapp-memgenx-kiro
+- **Chrome Extension Repo** : https://github.com/vinodwaghmare/extension-memgenx-kiro
+- **Backend Repo** : https://github.com/vinodwaghmare/backend-memgenx-kiro
+
 - **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
 
 ---
