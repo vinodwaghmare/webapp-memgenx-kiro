@@ -1,6 +1,6 @@
-# 🎃 Kiro Development Showcase - Memory Layer Web App
+# Kiro Development Showcase - Memory Layer Web App
 
-**Built with Kiro AI IDE for Kiroween 2025**
+**Built with Kiro AI IDE for 2025**
 
 This document serves as the main entry point to understand how this entire web app was built using Kiro AI IDE.
 
