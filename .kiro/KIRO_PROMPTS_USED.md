@@ -8,8 +8,7 @@ This document contains all the actual prompts used with Kiro AI IDE to build the
 
 ### Prompt 1: Project Initialization
 
-**Time**: 9:00 AM, October 15, 2025  
-**Duration**: 15 minutes  
+**Duration**: 120+ minutes  
 **Result**: Complete Next.js 14 project setup
 
 ```
@@ -36,8 +35,7 @@ Use modern best practices and Next.js 14 conventions.
 
 ### Prompt 2: Tailwind Configuration
 
-**Time**: 9:30 AM, October 15, 2025  
-**Duration**: 20 minutes  
+**Duration**: 45+ minutes  
 **Result**: Custom Halloween-themed Tailwind config
 
 ```
@@ -63,8 +61,7 @@ Make it production-ready with proper TypeScript types.
 
 ### Prompt 3: Global Styles
 
-**Time**: 10:00 AM, October 15, 2025  
-**Duration**: 25 minutes  
+**Duration**: 40 minutes  
 **Result**: Complete global CSS with theme
 
 ```
@@ -88,8 +85,7 @@ Use modern CSS with proper layering.
 
 ### Prompt 4: shadcn/ui Components
 
-**Time**: 10:45 AM, October 15, 2025  
-**Duration**: 45 minutes  
+**Duration**: 30 minutes  
 **Result**: Button, Card components and utilities
 
 ```
@@ -125,8 +121,7 @@ Follow shadcn/ui patterns exactly. Use Halloween theme colors.
 
 ### Prompt 5: App Layout
 
-**Time**: 1:00 PM, October 15, 2025  
-**Duration**: 20 minutes  
+**Duration**: 30 minutes  
 **Result**: Root layout with metadata
 
 ```
@@ -153,8 +148,7 @@ Follow Next.js 14 App Router conventions.
 
 ### Prompt 6: Navbar Component
 
-**Time**: 9:00 AM, October 16, 2025  
-**Duration**: 35 minutes  
+**Duration**: 1 hour minutes  
 **Result**: Responsive navigation bar
 
 ```
@@ -166,8 +160,7 @@ Create components/navbar.tsx:
 5. Get Started button (default variant with gradient)
 6. Responsive design (hamburger menu on mobile)
 7. Use shadcn/ui Button component
-8. Halloween theme (purple/orange)
-9. TypeScript with proper types
+8. TypeScript with proper types
 
 Make it sticky and add smooth scroll behavior.
 ```
@@ -179,7 +172,6 @@ Make it sticky and add smooth scroll behavior.
 
 ### Prompt 7: Hero Component
 
-**Time**: 9:45 AM, October 16, 2025  
 **Duration**: 40 minutes  
 **Result**: Hero section with animation
 
@@ -207,7 +199,6 @@ Center everything and add proper spacing.
 
 ### Prompt 8: Features Component
 
-**Time**: 10:45 AM, October 16, 2025  
 **Duration**: 50 minutes  
 **Result**: Features grid with 6 cards
 
@@ -241,7 +232,6 @@ Make cards interactive and visually appealing.
 
 ### Prompt 9: Pricing Component
 
-**Time**: 1:00 PM, October 16, 2025  
 **Duration**: 55 minutes  
 **Result**: Pricing section with 3 tiers
 
@@ -292,7 +282,6 @@ Make Pro tier stand out as the recommended option.
 
 ### Prompt 10: CTA Component
 
-**Time**: 2:00 PM, October 16, 2025  
 **Duration**: 25 minutes  
 **Result**: Call-to-action section
 
@@ -319,7 +308,6 @@ Make it compelling and visually striking.
 
 ### Prompt 11: Landing Page Assembly
 
-**Time**: 2:30 PM, October 16, 2025  
 **Duration**: 15 minutes  
 **Result**: Complete landing page
 
@@ -350,7 +338,6 @@ Make it a cohesive landing page experience.
 
 ### Prompt 12: Animation Enhancements
 
-**Time**: 9:00 AM, October 17, 2025  
 **Duration**: 45 minutes  
 **Result**: Smooth animations throughout
 
@@ -376,7 +363,6 @@ Use CSS animations and Tailwind classes. Keep it performant.
 
 ### Prompt 13: SEO Enhancement
 
-**Time**: 11:20 AM, October 17, 2025  
 **Duration**: 25 minutes  
 **Result**: Comprehensive SEO optimization
 
