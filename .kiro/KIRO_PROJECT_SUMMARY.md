@@ -2,7 +2,7 @@
 
 **Project Name**: Memory Layer Web App  
 **Category**: Kiroween 2025 - Frankenstein  
-**Development Period**: October 15-17, 2025  
+**Development Period**: Till 25th Nov   
 **Total Development Time**: 12 hours  
 **Status**: ✅ Production Ready
 
